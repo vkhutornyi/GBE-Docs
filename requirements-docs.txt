@@ -1,0 +1,2 @@
+# Pinned dependencies for the MkDocs documentation site (see .github/workflows/deploy-docs.yaml).
+mkdocs-material==9.5.39
