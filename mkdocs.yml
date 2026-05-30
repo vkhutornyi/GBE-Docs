@@ -1,5 +1,5 @@
 site_name: GlobalEgg BC Docs
-site_description: Documentation for the GlobalEgg Business Central extensions and the OVO-Vision migration.
+site_description: Documentation for the GlobalEgg Business Central extensions and the data migration.
 site_url: https://vkhutornyi.github.io/GBE-Docs/
 repo_url: https://github.com/vkhutornyi/GBE-Docs
 repo_name: vkhutornyi/GBE-Docs
@@ -36,7 +36,7 @@ theme:
 
 nav:
   - Home: index.md
-  - OVO Migration Runbook: ovo-migration.md
+  - Data Migration Runbook: data-migration.md
 
 markdown_extensions:
   - admonition
